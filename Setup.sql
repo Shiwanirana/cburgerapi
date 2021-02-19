@@ -1,3 +1,4 @@
+use cburgerapi;
 -- CREATE TABLE burger(
 --   id int AUTO_INCREMENT,
 --   name VARCHAR(255) NOT NULL UNIQUE,
